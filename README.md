@@ -2,6 +2,8 @@
 
 Keep the things you share often — an email address, a phone number, a Wi-Fi password, a link — and turn any of them into a QR code or a barcode in two keystrokes.
 
+![Search Data](metadata/01-list.png)
+
 ## Commands
 
 ### Search Data
