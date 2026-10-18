@@ -18,3 +18,7 @@ compiled_raycast_rust
 
 # tooling
 /.serena
+
+# iCloud duplicates
+* [0-9]
+* [0-9].*
