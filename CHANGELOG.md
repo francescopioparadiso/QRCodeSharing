@@ -1,6 +1,13 @@
 # QR Code Sharing Changelog
 
-## [Initial Version] - {PR_MERGE_DATE}
+## [Show Data] - {PR_MERGE_DATE}
+
+- Search Data is now Show Data: it pastes the clipboard into the search bar and shows it at once as text, a QR code or a barcode
+- Type to replace the content, and all three views update as you type
+- The text view draws one cell per character, colored by kind, for typing a value on another device
+- Removed saved entries, editing, pinning and the Export Data command; nothing is stored anymore
+
+## [Initial Version] - 2026-09-28
 
 - Search saved content and see its code next to the list, redrawn as the selection moves
 - Create an entry straight from the search bar, with the code previewed before it is saved
